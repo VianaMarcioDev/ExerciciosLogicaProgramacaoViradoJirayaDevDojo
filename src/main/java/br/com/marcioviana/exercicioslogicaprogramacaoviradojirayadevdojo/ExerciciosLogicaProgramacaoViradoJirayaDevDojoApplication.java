@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ExerciciosLogicaProgramacaoViradoJirayaDevDojoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ExerciciosLogicaProgramacaoViradoJirayaDevDojoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ExerciciosLogicaProgramacaoViradoJirayaDevDojoApplication.class, args);
+    }
 
 }
